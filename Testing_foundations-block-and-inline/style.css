@@ -1,0 +1,27 @@
+div
+{
+padding: 5px;
+border: 0px;
+text-align: center;
+width: 30%;
+margin: 0px auto 10px auto;
+color: white;
+}
+
+.introduction
+{
+font-family: Arial, Helvetica, sans-serif;
+background-color: aqua;
+}
+
+.main-content
+{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact-us
+{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
