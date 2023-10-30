@@ -15,27 +15,31 @@ body {
     background: #e3f4ff;
     margin: 0px 20px 10px 20px;
     font-size: 25px;
+    padding: 10px 0px 10px 10px;
+    
   }
   
   .content {
     background: #e3f4ff;
     margin: 0px 20px 10px 20px;
     font-size: large;
+    padding: 10px 0px 10px 10px;
   }
   
   .button-container {
     background: #e3f4ff;
     margin: 0px 20px 0px 20px;
+    text-align: center;
     font-size: larger;
+    padding: 10px; 
 
   }
   
   button {
     background: white;
+    margin: auto;
+    display: block;
     border: 1px solid #eee;
-    align-self: center;
-    text-align: center;
     font-size: larger;
-    margin-left: 25px;
-    margin-right: 25px;
+    
   }
